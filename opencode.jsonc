@@ -1,0 +1,6 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  // Plugins are resolved from your .opencode node_modules.
+  // This one formats Markdown tables so they render nicely in the OpenCode TUI.
+  "plugin": ["@franlol/opencode-md-table-formatter@0.0.3"]
+}
